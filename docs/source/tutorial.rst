@@ -28,4 +28,5 @@ In-Game
 
 .. Info::
 
-  In-Game ist derzeit **NICHT** verfügbar!
+   In-Game ist derzeit **NICHT** verfügbar!
+
