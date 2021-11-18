@@ -7,7 +7,7 @@ Hier sind Links zu den Dokumentationen:
 `DevNite <https://devnite.readthedocs.io/en/latest/#>`_
 
 
-.. note::
+.. attention::
 
    Dieses Projekt ist zurzeit in bearbeitung!
 
