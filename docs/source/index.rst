@@ -18,3 +18,4 @@ Contents
 
    Download
    tutorial
+   partners
