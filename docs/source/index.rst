@@ -17,4 +17,4 @@ Contents
 .. toctree::
 
    Download
-   Tutorial
+   tutorial
