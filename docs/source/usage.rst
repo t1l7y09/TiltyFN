@@ -1,34 +1,24 @@
-Usage
+Download
 =====
 
-.. _installation:
+.. _Download:
 
-Installation
+Im Web
+------
+
+Um TiltyFN herunterzuladen:
+Klick mich
+
+.. Attention::
+
+   Wegen dem Profilpatch ist der Server **nicht** verfügbar!
+
+Über Discord
 ------------
 
-To use Lumache, first install it using pip:
+Tritt unserem Discod bei. Gehe zu #downloadTFN und lade die Datei herunter.
 
-.. code-block:: console
+.. Note::
 
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+   Unser Discord Server ist gerade im umbau und deswegen Privat. Schau hier öfter 
+   damit du weißt wann der Server wieder geöffnet ist!
