@@ -25,8 +25,6 @@ Drücke in der Lobby "Ok" und fertig.
   
 In-Game
 -------
-
 .. Info::
 
    In-Game ist derzeit **NICHT** verfügbar!
-
