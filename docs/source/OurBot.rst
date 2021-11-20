@@ -11,6 +11,7 @@ Ihr könnt uns auch selbst Befehle schicken (z.B <Befehl> <Message>).
 Schreibt dazu ein Admin an der diesen Befehl mit zu den anderen Vorschlägen setzt.
 
 Hier eine Liste mit allen Befehlen:
+
 !patchnotes - Sendet euch zu den Patchnotes von uns.
 
 !stats - Derzeit nicht verfügbar
