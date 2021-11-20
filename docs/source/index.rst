@@ -19,3 +19,4 @@ Contents
    Download
    tutorial
    partners
+   ourbot
