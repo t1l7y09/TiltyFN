@@ -12,9 +12,13 @@ Schreibt dazu ein Admin an der diesen Befehl mit zu den anderen Vorschlägen set
 
 Hier eine Liste mit allen Befehlen:
 !patchnotes - Sendet euch zu den Patchnotes von uns.
+
 !stats - Derzeit nicht verfügbar
+
 !neues - Sagt dir die neuigkeiten von uns.
+
 !download - Schickt dich zu einem Download Link.
+
 
 .. Attention::
   Aufgrund des Profilpatches von EpicGames ist kein Server verfügbar!
